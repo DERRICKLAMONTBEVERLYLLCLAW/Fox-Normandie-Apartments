@@ -10,7 +10,7 @@
 
 ## Verified repository structure
 
-On November 3, 2026 the `main` tree had **155 file objects**, including **152 PDFs by extension**, one document with no `.pdf` suffix, `LICENSE` and this README. Documents are mainly stored at the **repository root**, not in the previously advertised `Complaints/`, `Motions/`, `Exhibits/`, `Declarations/`, or `Filings/` directories.
+On November 3, 2026 the `main` tree had **156 file objects**, including **152 PDFs by extension**, one document with no `.pdf` suffix, the disclosure-triage CSV, `LICENSE`, and this README. Documents are mainly stored at the **repository root**, not in the previously advertised `Complaints/`, `Motions/`, `Exhibits/`, `Declarations/`, or `Filings/` directories.
 
 The old README advertised 21 links to absent paths and incorrectly characterized all files as immediately downloadable/court-ready. Those invalid links have been removed. The source titles below are **exact existing filenames**, **not approved downloads**.
 
@@ -28,6 +28,10 @@ The old README advertised 21 links to absent paths and incorrectly characterized
 | `October 9th 2026 Appellant's NOtice Designating Recorn on Appeal Limited Civil Case.pdf` | Record-designation source; check conformed court record |
 
 Other court records are present. Search the [repository file tree](https://github.com/DERRICKLAMONTBEVERLYLLCLAW/Fox-Normandie-Apartments/tree/main) by actual date and name; do not infer a file's publication approval from its presence.
+
+## Disclosure triage inventory
+
+[152-document publication review ledger](./PUBLICATION_DISCLOSURE_TRIAGE_2026-11-03.csv) — preliminary filename/metadata screening only. Every PDF remains on disclosure HOLD. Git blob SHA-1 values are not substitutes for file SHA-256.
 
 ## DER-11 through DER-18 publication controls
 
