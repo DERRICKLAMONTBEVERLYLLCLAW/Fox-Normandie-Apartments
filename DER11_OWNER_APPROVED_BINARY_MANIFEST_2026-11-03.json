@@ -1,0 +1,20 @@
+{
+  "matter": "Fox Normandie Apartments, LP v. Derrick LaMont Beverly",
+  "case_number": "22STUD06657",
+  "related_appeal": "26APLC00322",
+  "record": "DER-11 supplemental four-page UD-100 excerpt (not master case packet)",
+  "approval_date": "2026-11-03",
+  "owner_authorization": "EXPLICIT: approved for proposed public release",
+  "approved_binary_sha256": "417794a9bb39ebdfcad3d51e6f1f3994fe2a621ba248dde38ad1ac261639487d",
+  "approved_binary_bytes": 979272,
+  "approved_binary_pages": 4,
+  "original_43_page_sha256": "eb67d202e12b05a699ef1503f669ab4abce67d6c0a3f43dfe6b2dc7a1a4cb5f1",
+  "original_status": "PRESERVED_UNCHANGED_NOT_PUBLIC_RELEASE_APPROVED",
+  "approved_file_public_raw_url": null,
+  "anonymous_download_sha256": null,
+  "disclosure_legal_review": "REVIEW_HOLD_COURT_ORDER_AND_THIRD_PARTY_PRIVACY_CHECK",
+  "anonymous_download_status": "NOT_VERIFIED",
+  "godaddy_deployment_status": "NOT_PERFORMED",
+  "public_release_certification": "HOLD",
+  "note": "A GitHub HTML preview, source Git blob SHA-1, ZIP package path, or public directory path is not itself proof of byte-identical anonymous document delivery."
+}
